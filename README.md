@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/gin-khup/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-# <a href="https://www.linkedin.com/in/gin-khup/">Gin Khup</a>'s IT and Cybersecurity Project 🔐
+# Gin Khup</a>'s IT and Cybersecurity Project 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
