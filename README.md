@@ -1,11 +1,14 @@
+<a href="https://www.linkedin.com/in/gin-khup/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # <a href="https://www.linkedin.com/in/gin-khup/">Gin Khup</a>'s IT and Cybersecurity Project 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/ginkhup/Vulnerability-Management-Program/tree/main)**
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Management Program Implmentation          | [Vulnerability Management Program Implementation](https://github.com/ginkhup/Vulnerability-Management-Program/tree/main)</a>|
 
 
 <hr/>
@@ -13,13 +16,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
+
 [youtube]: https://www.youtube.com/@ginlkhup
-[instagram]: https://www.instagram.com/khup_0
 [linkedin]: https://linkedin.com/in/gin-khup
 
 <!--
