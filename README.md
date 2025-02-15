@@ -5,7 +5,7 @@ I am a cybersecurity enthusiast with the ability to swiftly adapt to new environ
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gin-khup/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
